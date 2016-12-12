@@ -2,7 +2,7 @@
   "embeddings": [
     {
       "tensorName": "Building Attributes",
-      "tensorShape": [150, 4],
+      "tensorShape": [150, 8],
       "tensorPath": "oss_data/iris_tensors.bytes",
       "metadataPath": "oss_data/iris_labels.tsv"
     }
