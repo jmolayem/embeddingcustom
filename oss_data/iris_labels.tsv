@@ -1,152 +1,127 @@
-sepal-length	sepal-width	petal-length	petal-width	class
-5.1	3.5	1.4	0.2	Iris-setosa
-4.9	3.0	1.4	0.2	Iris-setosa
-4.7	3.2	1.3	0.2	Iris-setosa
-4.6	3.1	1.5	0.2	Iris-setosa
-5.0	3.6	1.4	0.2	Iris-setosa
-5.4	3.9	1.7	0.4	Iris-setosa
-4.6	3.4	1.4	0.3	Iris-setosa
-5.0	3.4	1.5	0.2	Iris-setosa
-4.4	2.9	1.4	0.2	Iris-setosa
-4.9	3.1	1.5	0.1	Iris-setosa
-5.4	3.7	1.5	0.2	Iris-setosa
-4.8	3.4	1.6	0.2	Iris-setosa
-4.8	3.0	1.4	0.1	Iris-setosa
-4.3	3.0	1.1	0.1	Iris-setosa
-5.8	4.0	1.2	0.2	Iris-setosa
-5.7	4.4	1.5	0.4	Iris-setosa
-5.4	3.9	1.3	0.4	Iris-setosa
-5.1	3.5	1.4	0.3	Iris-setosa
-5.7	3.8	1.7	0.3	Iris-setosa
-5.1	3.8	1.5	0.3	Iris-setosa
-5.4	3.4	1.7	0.2	Iris-setosa
-5.1	3.7	1.5	0.4	Iris-setosa
-4.6	3.6	1.0	0.2	Iris-setosa
-5.1	3.3	1.7	0.5	Iris-setosa
-4.8	3.4	1.9	0.2	Iris-setosa
-5.0	3.0	1.6	0.2	Iris-setosa
-5.0	3.4	1.6	0.4	Iris-setosa
-5.2	3.5	1.5	0.2	Iris-setosa
-5.2	3.4	1.4	0.2	Iris-setosa
-4.7	3.2	1.6	0.2	Iris-setosa
-4.8	3.1	1.6	0.2	Iris-setosa
-5.4	3.4	1.5	0.4	Iris-setosa
-5.2	4.1	1.5	0.1	Iris-setosa
-5.5	4.2	1.4	0.2	Iris-setosa
-4.9	3.1	1.5	0.1	Iris-setosa
-5.0	3.2	1.2	0.2	Iris-setosa
-5.5	3.5	1.3	0.2	Iris-setosa
-4.9	3.1	1.5	0.1	Iris-setosa
-4.4	3.0	1.3	0.2	Iris-setosa
-5.1	3.4	1.5	0.2	Iris-setosa
-5.0	3.5	1.3	0.3	Iris-setosa
-4.5	2.3	1.3	0.3	Iris-setosa
-4.4	3.2	1.3	0.2	Iris-setosa
-5.0	3.5	1.6	0.6	Iris-setosa
-5.1	3.8	1.9	0.4	Iris-setosa
-4.8	3.0	1.4	0.3	Iris-setosa
-5.1	3.8	1.6	0.2	Iris-setosa
-4.6	3.2	1.4	0.2	Iris-setosa
-5.3	3.7	1.5	0.2	Iris-setosa
-5.0	3.3	1.4	0.2	Iris-setosa
-7.0	3.2	4.7	1.4	Iris-versicolor
-6.4	3.2	4.5	1.5	Iris-versicolor
-6.9	3.1	4.9	1.5	Iris-versicolor
-5.5	2.3	4.0	1.3	Iris-versicolor
-6.5	2.8	4.6	1.5	Iris-versicolor
-5.7	2.8	4.5	1.3	Iris-versicolor
-6.3	3.3	4.7	1.6	Iris-versicolor
-4.9	2.4	3.3	1.0	Iris-versicolor
-6.6	2.9	4.6	1.3	Iris-versicolor
-5.2	2.7	3.9	1.4	Iris-versicolor
-5.0	2.0	3.5	1.0	Iris-versicolor
-5.9	3.0	4.2	1.5	Iris-versicolor
-6.0	2.2	4.0	1.0	Iris-versicolor
-6.1	2.9	4.7	1.4	Iris-versicolor
-5.6	2.9	3.6	1.3	Iris-versicolor
-6.7	3.1	4.4	1.4	Iris-versicolor
-5.6	3.0	4.5	1.5	Iris-versicolor
-5.8	2.7	4.1	1.0	Iris-versicolor
-6.2	2.2	4.5	1.5	Iris-versicolor
-5.6	2.5	3.9	1.1	Iris-versicolor
-5.9	3.2	4.8	1.8	Iris-versicolor
-6.1	2.8	4.0	1.3	Iris-versicolor
-6.3	2.5	4.9	1.5	Iris-versicolor
-6.1	2.8	4.7	1.2	Iris-versicolor
-6.4	2.9	4.3	1.3	Iris-versicolor
-6.6	3.0	4.4	1.4	Iris-versicolor
-6.8	2.8	4.8	1.4	Iris-versicolor
-6.7	3.0	5.0	1.7	Iris-versicolor
-6.0	2.9	4.5	1.5	Iris-versicolor
-5.7	2.6	3.5	1.0	Iris-versicolor
-5.5	2.4	3.8	1.1	Iris-versicolor
-5.5	2.4	3.7	1.0	Iris-versicolor
-5.8	2.7	3.9	1.2	Iris-versicolor
-6.0	2.7	5.1	1.6	Iris-versicolor
-5.4	3.0	4.5	1.5	Iris-versicolor
-6.0	3.4	4.5	1.6	Iris-versicolor
-6.7	3.1	4.7	1.5	Iris-versicolor
-6.3	2.3	4.4	1.3	Iris-versicolor
-5.6	3.0	4.1	1.3	Iris-versicolor
-5.5	2.5	4.0	1.3	Iris-versicolor
-5.5	2.6	4.4	1.2	Iris-versicolor
-6.1	3.0	4.6	1.4	Iris-versicolor
-5.8	2.6	4.0	1.2	Iris-versicolor
-5.0	2.3	3.3	1.0	Iris-versicolor
-5.6	2.7	4.2	1.3	Iris-versicolor
-5.7	3.0	4.2	1.2	Iris-versicolor
-5.7	2.9	4.2	1.3	Iris-versicolor
-6.2	2.9	4.3	1.3	Iris-versicolor
-5.1	2.5	3.0	1.1	Iris-versicolor
-5.7	2.8	4.1	1.3	Iris-versicolor
-6.3	3.3	6.0	2.5	Iris-virginica
-5.8	2.7	5.1	1.9	Iris-virginica
-7.1	3.0	5.9	2.1	Iris-virginica
-6.3	2.9	5.6	1.8	Iris-virginica
-6.5	3.0	5.8	2.2	Iris-virginica
-7.6	3.0	6.6	2.1	Iris-virginica
-4.9	2.5	4.5	1.7	Iris-virginica
-7.3	2.9	6.3	1.8	Iris-virginica
-6.7	2.5	5.8	1.8	Iris-virginica
-7.2	3.6	6.1	2.5	Iris-virginica
-6.5	3.2	5.1	2.0	Iris-virginica
-6.4	2.7	5.3	1.9	Iris-virginica
-6.8	3.0	5.5	2.1	Iris-virginica
-5.7	2.5	5.0	2.0	Iris-virginica
-5.8	2.8	5.1	2.4	Iris-virginica
-6.4	3.2	5.3	2.3	Iris-virginica
-6.5	3.0	5.5	1.8	Iris-virginica
-7.7	3.8	6.7	2.2	Iris-virginica
-7.7	2.6	6.9	2.3	Iris-virginica
-6.0	2.2	5.0	1.5	Iris-virginica
-6.9	3.2	5.7	2.3	Iris-virginica
-5.6	2.8	4.9	2.0	Iris-virginica
-7.7	2.8	6.7	2.0	Iris-virginica
-6.3	2.7	4.9	1.8	Iris-virginica
-6.7	3.3	5.7	2.1	Iris-virginica
-7.2	3.2	6.0	1.8	Iris-virginica
-6.2	2.8	4.8	1.8	Iris-virginica
-6.1	3.0	4.9	1.8	Iris-virginica
-6.4	2.8	5.6	2.1	Iris-virginica
-7.2	3.0	5.8	1.6	Iris-virginica
-7.4	2.8	6.1	1.9	Iris-virginica
-7.9	3.8	6.4	2.0	Iris-virginica
-6.4	2.8	5.6	2.2	Iris-virginica
-6.3	2.8	5.1	1.5	Iris-virginica
-6.1	2.6	5.6	1.4	Iris-virginica
-7.7	3.0	6.1	2.3	Iris-virginica
-6.3	3.4	5.6	2.4	Iris-virginica
-6.4	3.1	5.5	1.8	Iris-virginica
-6.0	3.0	4.8	1.8	Iris-virginica
-6.9	3.1	5.4	2.1	Iris-virginica
-6.7	3.1	5.6	2.4	Iris-virginica
-6.9	3.1	5.1	2.3	Iris-virginica
-5.8	2.7	5.1	1.9	Iris-virginica
-6.8	3.2	5.9	2.3	Iris-virginica
-6.7	3.3	5.7	2.5	Iris-virginica
-6.7	3.0	5.2	2.3	Iris-virginica
-6.3	2.5	5.0	1.9	Iris-virginica
-6.5	3.0	5.2	2.0	Iris-virginica
-6.2	3.4	5.4	2.3	Iris-virginica
-5.9	3.0	5.1	1.8	Iris-virginica
-
+indirect_ghg_emissions_metric_tons_co2e	direct_ghg_emissions_metric_tons_co2e	total_ghg_emissions_intensity_kgco2e_ft	total_ghg_emissions_metric_tons_co2e	weather_normalized_source_eui_kbtu_ft	weather_normalized_site_eui_kbtu_ft	source_eui_kbtu_ft	site_eui_kbtu_ft	water_use_all_water_sources_kgal	longitude	latitude	property_name
+2514.5	823.8	6.8	3338.3	215.2	90.1	218.5	90.6	2983.2	-118.24403	34.052341	Police Department: 9/63   Police Administration Building  PAB
+5415	0	0	0	0	0	0	0	14262.8	-118.244526	34.050727	Municipal: 1/14  City Hall East
+477.1	24.8	2.7	501.9	0	0	95.7	32.2	1702.6	-118.250989	34.05882	Municipal: 1/44  Fig Plaza II
+1705.5	393.2	4.2	2098.7	136.7	53.8	137.7	53.6	8069.7	-118.254911	34.050629	Libraries: 51/100 Central Library
+770.5	266.1	15	1036.6	470.4	198	479.3	200.9	4281.2	-118.446386	34.183573	Police Department: 9/1  Van Nuys Police
+100.8	20.2	7.9	121	261.1	101	265.5	101.1	297.6	-118.502164	34.254642	Fire Department: 5/87  Fire Station #87
+33.8	0	3.7	33.8	125.7	40	132.9	42.3	226.5	-118.420527	34.044104	Fire Department: 5/92  Fire Station #92
+32.7	24.8	5.8	57.5	158.9	86.3	168.4	85	584.5	-118.449131	34.059771	Fire Department: 5/37  Fire Station #37
+60	9.2	5	69.2	171	63	170.7	62.7	418.2	-118.428553	34.006133	Fire Department: 5/62  Fire Station #62
+38.4	17.3	5.1	55.7	151.5	70.5	158	70	668.9	-118.417285	34.269892	Fire Department: 5/98  Fire Station #98
+52.3	0	2.4	52.3	84.7	27	87.7	27.9	443.8	-118.32988	34.089073	Fire Department: 5/27  Fire Station #27
+373.4	108.1	6.9	481.5	224.7	93	225.6	91.4	257.9	-118.222816	34.074809	Fire Department: 5/401  Fire Station #401 Shops and Stores
+118.4	25	2.9	143.4	91.9	35.9	95.1	36.5	369.9	-118.4446	34.21315	Fire Department: 5/81  Fire Station #81
+54.7	18.9	5.5	73.6	165.9	71.6	174.3	73.1	470.3	-118.447144	34.184797	Fire Department: 5/39  Fire Station #39
+32.4	11.7	4.6	44.1	141.8	61.3	146.6	62	339.9	-118.266334	34.035579	Fire Department: 5/48  Fire Station #48
+25.3	12.3	6.5	37.6	0	0	201.1	90.9	344.5	-118.49219	34.130748	Fire Department: 5/109   Fire Station #109
+364.5	14.3	5	378.8	170.8	57.1	176.3	58.5	1682.7	-118.242378	34.068146	Fire Department: 5/30  Fire Station #30  Fire Dept Admin
+36.7	13.9	3.2	50.7	0	0	102.7	43.9	438	-118.273956	34.055327	Fire Department: 5/11  Fire Station #11
+34	14.5	5.3	48.4	160.6	71.3	165.1	72.3	412.7	-118.309233	34.038309	Fire Department: 5/26  Fire Station #26
+93.8	17.6	7.3	111.4	237.7	92.4	244.9	92.5	471.5	-118.339112	34.178261	Fire Department: 5/84  Fire Station #84
+32.3	18.8	7.5	51.1	221.1	111.6	226.5	106.8	372.1	-118.603457	34.247471	Fire Department: 5/96  Fire Station #96
+56.9	13	4.6	69.9	145.8	57.1	150.9	58.7	216.6	-118.289346	34.047429	Fire Department: 5/13 Fire Station #13
+32.7	15.2	5.9	47.8	177	79.9	183.7	82.1	331.1	-118.244777	34.115441	Fire Department: 5/50  Fire Station #50
+13.3	10.6	6.5	23.9	185.7	100.8	188.5	96.2	386.2	-118.363552	34.137106	Fire Department: 5/76  Fire Station #76
+43.7	9.6	5.1	53.3	159.7	63.7	170.9	66.1	184.1	-118.40573	34.023039	Fire Department: 5/43A  Fire Station #43A
+3.9	0	0.4	3.9	15.5	4.9	15.5	4.9	562	-118.315504	34.061876	Fire Department: 5/29  Fire Station #29
+31.8	23.3	3.9	55.1	116.1	61.1	112.8	56.4	548.6	-118.247731	34.041184	Fire Department: 5/9  Fire Station #9
+66.3	21.5	10.8	87.8	328.8	142.5	347.8	143.9	535.9	-118.345407	34.017773	Fire Department: 5/94  Fire Station #94
+200.4	46.3	7.9	246.7	0	0	261.4	101.8	1070.1	-118.23605	34.050346	Fire Department: 5/4A  Fire Station #4A
+48.6	16.9	4.3	65.5	135	59.1	137.3	57.6	440.5	-118.500878	34.161147	Fire Department: 5/83  Fire Station #83
+179.6	39.9	19	219.5	626.7	253.5	630.9	244.2	850.3	-118.394334	33.973589	Fire Department: 5/88  Fire Station #88
+49.2	8.8	3.8	58	122.2	47.4	129.3	48.5	148	-118.42787	33.973693	Fire Department: 5/67  Fire Station #67
+39.7	20.8	3.6	60.5	103.3	50	110.1	50.6	476.9	-118.378839	34.167652	Fire Department: 5/60Fire   Station #60
+87	34.7	3.7	121.7	115.4	50.1	117.6	50.8	285.6	-118.315333	34.101858	Fire Department: 5/82A  Fire Station #82A
+32.6	20.2	5.5	52.8	161.2	81	163.1	78	305.8	-118.190237	34.111029	Fire Department: 5/12  Fire Station #12
+29.7	10.8	6.6	40.6	197.4	86.4	211.5	89.6	391.7	-118.623672	34.185774	Fire Department: 5/105  Fire Station #105
+0	21.4	0	0	0	0	0	0	490.8	-118.273762	33.981173	Fire Department: 5/33  Fire Station #33
+31.2	12.4	6	43.7	184.2	82.4	187.7	81	300	-118.423202	33.995617	Fire Department: 5/100  Fire Station #100
+57.1	16.7	5.6	73.8	176.2	73.6	182.2	73.9	1295.7	-118.367839	34.108507	Fire Department: 5/89  Fire Station #89
+50.9	30.6	7.4	81.5	0	0	221.4	105.2	452.9	-118.483934	34.214382	Fire Department: 5/90  Fire Station #90
+80.3	11.8	3.7	92.2	0	0	126.9	46.4	463.4	-118.404199	33.95491	Fire Department: 5/5C  Fire Station #5C
+48.3	10.9	5.4	59.2	177.2	71.7	178.1	69.1	115.9	-118.497771	34.264371	Libraries: 51/056 Granada Hill Library
+42.7	10.6	4.3	53.4	142.1	58	142.8	56.3	396.3	-118.560036	34.27776	Libraries:  51/067 Porter Ranch Library
+45.1	4.7	4.8	49.8	158.4	58.5	165.8	58.5	69.3	-118.468621	34.052813	Libraries: 51/016 Brentwood Library
+38.3	6.4	4.2	44.8	141	53.8	141.5	52.6	99.2	-118.394253	34.273018	Libraries: 51/062 Lake View Terrace Library
+58.9	13.9	6.1	72.8	194.5	80.8	200.3	78.3	247	-118.428974	34.00591	Libraries: 51/038 Mar Vista Library #38
+63.2	17.9	7.7	81	241.2	98.1	251.3	101.3	0	-118.401086	34.194089	Libraries: 51/057 Valley Plaza Library
+76	2.1	6.2	78.1	206.3	67.8	223.3	73.2	145.1	-118.441874	34.057864	Libraries: 51/071 Westwood Library
+46	0.5	4.3	46.4	146	47	154.9	49.9	386.6	-118.265127	33.962704	Libraries: 51/010 Wilmington Library
+69.4	4.4	6.5	73.8	220.2	76.4	229.9	78.1	182.2	-118.429178	34.261205	Libraries: 51/053 Pacoima Library
+59.7	7.4	5.5	67.1	182.8	65.8	189.3	67.9	486.9	-118.443689	34.151137	Libraries: 51/051 Sherman Oaks Library
+68.5	6.5	12.3	75	394.4	142	427.6	149.5	183.6	-118.446322	34.221749	Libraries: 51/039 Panarama City Library
+61.2	6.1	5.7	67.3	189.9	69.3	197.7	69.4	166.9	-118.450344	34.307356	Libraries: 51/054 Sylmar Library
+26.3	2.6	4.6	28.8	154.3	54.7	159.9	56.1	198.4	-118.31144	34.071651	Libraries: 51/029 Wilshire Library
+58.7	3.7	7.1	62.4	234.2	81.9	250.2	85	14.8	-118.385804	34.048354	Libraries: 51/042 Robertson Library
+84.6	14.1	7.2	98.7	236.3	92.2	243	90.2	316.9	-118.547853	34.193689	Libraries: 51/050 West Valley Library
+64.8	1.7	6.2	66.5	214.9	70.4	220.2	72.1	229.1	-118.262265	34.077985	Libraries: 51/69 Edendale Library
+71.2	2	6.1	73.2	218.5	71.9	218.2	71.6	151.4	-118.24349	34.050316	Libraries: 51/064 Little Tokyo Library
+58.7	2.3	4.9	61	161	54.2	173.6	57.6	142.8	-118.592543	34.257079	Libraries: 51/060 Chatsworth Library
+68.6	1.1	7.2	69.7	249.3	80.9	259.4	84.1	208.9	-118.212412	34.044224	Libraries: 51/001 Ben Franklin Library
+50	0.5	4.8	50.5	163.3	52.5	173.2	55.7	176.6	-118.318051	33.974748	Libraries: 51/033 Hyde Park Library
+32.2	4	4	36.2	136.1	49.8	138.4	49.6	109.1	-118.319242	34.025695	Libraries: 51/017 Jefferson Branch Library
+67.1	10.9	5.4	78	180.2	67.6	184.4	68.3	406.8	-118.250944	34.064914	Libraries: 51/065 Platt Library
+67.7	4.6	5.1	72.3	169.7	58.1	178.8	61	298.3	-118.308928	33.994013	Libraries: 51/68 Harbor Gateway Library
+40	0	3.4	40	119.4	38	123.1	39.2	381.7	-118.21428	34.076252	Libraries:  51/002 Lincoln Heights Library
+24	3.3	5.2	27.3	170.9	62.4	178	64.7	311.5	-118.322515	33.995172	Libraries: 51/026 Angeles Mesa Library
+24.3	0.3	4.1	24.6	144.7	46.7	147.7	47.6	360.7	-118.197849	34.050589	Libraries: 51/018 Malabar Library
+20.3	0	0.5	20.3	16.7	5.3	16.7	5.3	190.8	-118.225903	34.042909	Libraries: 51/101 Library Maintenance Building
+122.7	4.9	8.9	127.5	309.6	103.5	316.5	105	127.1	-118.308716	34.014461	Libraries: 51/074 Exposition Park Library
+50.9	1.8	5.1	52.6	175.9	58.3	181.7	60	135.6	-118.256308	34.002604	Libraries: 51/004 Vernon Library
+43.1	3.8	4.3	46.9	0	0	150.7	52.4	741.8	-118.274192	34.001674	Libraries: 51/007 Junipero Serra Library
+48.6	3.3	4.9	51.8	168.2	58	172.2	58.7	92.9	-118.486228	34.235474	Libraries: 51/049 Memorial Library
+43.9	2.4	3.8	46.3	130.1	44.2	134.1	45.2	75.5	-118.213301	34.137664	Libraries: 51/ 032 Eagle Rock Library
+39.3	5.4	4.3	44.7	141.4	52.4	145.8	52.9	125	-118.16829	34.089388	Libraries: 51/021 El Sereno Library
+36	1.3	5.3	37.3	179.5	59.9	188.3	62.3	277.4	-118.333719	34.083618	Libraries: 51/012 John C Fremont Library
+46.2	0	0	0	0	0	0	0	343	-118.446378	34.183774	Libraries: 51/023 Van Nuys Library
+89	6.6	6.6	95.6	224.6	78.6	231.1	79.3	384.9	-118.241028	34.059751	Libraries: 51/063 China Town Library
+177.2	8.2	9.3	185.4	317.1	106.1	328.7	109.8	230.4	-118.307631	34.060005	Libraries: 51/003 Pio Pico Koreatown Library
+70	1	5.7	71	192.9	62.9	204.2	66	245.9	-118.345333	34.0978	Libraries: 51/031 Will and Arial Durant Library
+17.9	0.2	3.6	18.1	125.2	40.4	128.7	41.5	63.9	-118.198107	34.027534	Libraries: 51/019 R.L Stevenson Library
+0	3.9	0	0	0	0	0	0	248.6	-118.370578	34.214811	Libraries: 51/052 Sun Valley Library
+60.3	0.9	5.7	61.3	206	67.2	205.2	66.4	482.3	-118.524987	34.044369	Libraries: 51/015 Palisades Library
+44.8	3	5.1	47.8	164.2	56.2	177.8	60.6	85.8	-118.282863	33.948675	Libraries: 51/045 Mark Twain Library
+85.6	27.6	2.3	113.2	0	0	74.7	30.9	520.3	-118.294387	34.101528	Cultural Affairs: 19/4 Barnsdall Gallery
+37	0	0	0	0	0	0	0	744.2	-118.314714	33.98737	Street Maintenance (BSS): 08/004  SouthWest District Street Maintance Yard
+254	112.1	11.5	366.1	357.1	163.3	358.6	158.4	914.2	-118.531831	34.256426	Police Department: 9/17  Devonshire Police
+371.9	61	3.1	433	100.8	37.9	103.7	38.4	1241.9	-118.291439	34.049817	Police Department: 9/68   Mid City Police
+313.9	98	6.1	411.9	194.7	83.5	195.7	80.4	1728.9	-118.339112	34.178261	Police Department: 9/12  North Hollywood Police
+375.8	65.1	7.2	440.9	239.6	90.4	241.8	90.3	708.6	-118.4703	34.29025	Police Department: 9/27  EVOC
+259.1	90	10.6	349.1	342.9	153.3	338.8	142.2	739.1	-118.443508	34.018378	Police Department: 9/9  Pacific Area Police
+242.6	89.6	12.6	332.3	399.2	173.6	401.3	170.5	609.1	-118.330829	34.095835	Police Department: 9/4  Hollywood Police
+330.5	78.3	2.9	408.8	97.4	39.1	97.3	38.1	1950.9	-118.267458	34.056479	Police Department: 9/90    Rampart Police
+840.2	0	4.8	840.2	172.9	55.1	174.7	55.7	1904.2	-118.241117	34.052994	Police Department: 9/44 Metro Detention Center MDC
+438.5	111.6	16.6	550.1	542	219.6	544.3	215.5	2021.1	-118.547432	34.193695	Police Department: 9/13 West Valley Police
+112.1	18.6	5.8	130.8	190.7	71.2	197.6	73.4	72.6	-118.217065	34.066188	Police Department: 9/42  Metro Bomb Squad
+379.1	9.2	1.3	388.2	46.7	15.3	46.6	15.2	810.1	-118.24554	34.049656	Police Department: 9/93  Police Motor transport
+263.5	21.7	6.8	285.2	230.7	81	236.4	81.7	573.6	-118.24949	34.118839	Police Department: 9/2 Northeast Police
+329.1	81.2	10.5	410.4	343	137	345.6	136.1	1168.4	-118.256303	34.012564	Police Department: 9/6  Newton Area Police
+178.2	38.7	7.1	216.8	236.1	92.6	237.7	91.7	2199	-118.342217	34.046585	Police Department: 9/11  Wilshire Police
+561.6	87.7	3.7	649.2	124.3	46.9	125.1	46.1	2364.9	-118.379648	33.960056	Police Department: 9/26  Recruit Training  Center    ARTC
+157.5	0	3.3	157.5	116.6	37.1	120.5	38.4	1896.1	-118.46589	34.270613	Animal Services: 7/8 Northeast Valley Animal Sheter
+128.3	71.3	8.7	199.6	260.7	131.2	262.5	122.3	1264.1	-118.440104	34.034687	Animal Services: 7/2 West LA Animal Care
+156.5	105.8	5.1	262.4	150.9	78	149.9	73.4	2231	-118.446736	34.194102	Animal Services: 7/7 East Valley Animal Shelter
+111.6	97.3	5.5	208.8	163.2	88.9	157.8	82.5	6704.1	-118.218407	34.083498	Animal Services: 7/1 North Central Animal Shelter
+104.3	47.9	11	152.2	348.9	165.1	342.6	152.6	1719.6	-118.292456	33.751967	Animal Services: 7/4 Harbor Animal Care
+66	12.5	16.6	78.5	0	0	558.6	211	8108.5	-118.292211	33.731322	Sanitation: 21/32  Gaffey St Yard
+156.3	30.3	16.6	186.6	562.3	223.9	555.1	210.5	578.9	-118.450805	34.035818	Sanitation: 20/3   Western District
+113	28.2	7.9	141.2	262	107.9	261.2	103.1	496.8	-118.23609	34.092366	Sanitation: 21/1  North District Sewer Maintenance Yard
+30.2	4.2	2.4	34.5	82.8	30.6	81.9	29.8	38.8	-118.247388	33.943566	Municipal: 1/7  Watts Municipal
+112.7	13.8	5.5	126.5	177.9	64.2	188.9	67.7	241.1	-118.448886	34.04507	Municipal: 1/8   West L.A. Municipal
+121.3	0	4.8	121.3	164.6	52.4	173.9	55.4	117.4	-118.445391	34.043226	Municipal: 1/46  Sawtelle Various City
+737.8	178.6	7.3	916.4	237.9	94.8	241.5	94.8	3098.1	-118.448464	34.184085	Municipal: 1/96  Braude Building
+19.9	8.2	2.6	28.2	82	38.6	82.8	36	0	-118.315795	34.107581	Municipal: 1/4  Sunland Tujnga Municipal
+0	10.5	0	0	0	0	0	0	687.8	-118.406701	34.204975	DOT: 63/25 Valley Area Parking enforcement
+18.3	8.2	1.5	26.5	0	0	47.2	20.9	3	-118.236576	34.053202	DOT: 1/24A Commercial St Traffic Yard
+28.2	0	0.7	28.2	26.3	8.4	26.3	8.4	1538.5	-118.44668	34.184302	City of LA - removed properties: 63/26  Parking Facilities Division
+428.2	365.5	19.4	793.7	580.8	312.8	556.1	289.2	367.6	-118.224773	34.034216	GSD Facilities: 01/037  7th Street Complex (GSD)
+159.8	93.7	7.4	253.5	229.6	112.2	221.8	104.8	110.2	-118.227662	34.016411	GSD Facilities: 1/76 Central refuse equipment repair yard
+35.5	2.5	7.8	38	276.2	95.6	274.9	94.1	184	-118.332516	34.02342	GSD Facilities: 1/47 36th St Building Maintenance  yard
+76.5	10.3	2.2	86.9	0	0	74	26.8	0	-118.224499	34.077039	DOT: 1/39 DOT facility
+16.9	7	4	23.9	126.3	57.4	124.8	54.4	555.4	-118.31868	34.063107	Residence: Getty House (30/3)
+891.7	0	0	0	0	0	0	0	813	-118.242382	34.05136	Police Department: 9/35      911 Metro Communication Dispatch
+630.9	75.7	6	706.7	201.2	72.7	205	73.3	2731.1	-118.233534	34.049662	Personnel Department: Personnel building #27/8/* City Personnel
+111.5	36.6	7.4	148.2	233.7	99.1	238	98.8	113.7	-118.23477	34.050236	Personnel Department:  Personnel Medical Svc Div  27/02
+68.8	4.3	2.4	73.1	81.6	28.1	83.3	28.3	323.1	-118.287622	34.090726	Street Lighting (BSL): 12/1  Street Lighting Field HQ
+65.1	2.6	4	67.7	137.8	46.6	141.6	47	649.8	-118.222517	34.042755	CDD: CDD  47/88
